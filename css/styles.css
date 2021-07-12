@@ -1,0 +1,45 @@
+
+.divencabezado{
+    background-color: #C8D9DC;
+    width: 80%;
+    align-items: center;
+}
+
+.logoUNIR{
+    width: 250px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.fotos{
+    height: 150px;
+    width: auto;
+    margin: auto;
+    display:block;
+}
+
+.nombres{
+    font-size: small;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+    font-size: large;
+    line-height: 110px;
+    vertical-align: middle;
+}
+
+
+.vinculos{
+    text-align: right;
+    font-size: large;
+}
+
+.img-tarea1{
+    margin:0px auto;
+    display:block;
+    width: 500px;
+    height: auto;
+}
